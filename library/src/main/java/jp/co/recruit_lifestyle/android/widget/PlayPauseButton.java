@@ -83,7 +83,7 @@ public class PlayPauseButton extends View {
   /**
    * ボタンの色
    */
-  private int mBackgroundColor = Color.BLACK;
+  private int mBackgroundColor = Color.WHITE;
 
   /**
    * AnimatorのUpdateListener
